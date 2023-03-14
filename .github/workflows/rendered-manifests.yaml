@@ -1,4 +1,4 @@
-name: Promote Image Changes
+name: Render manifests
 on:
   push:
     branches:
